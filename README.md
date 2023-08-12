@@ -1,5 +1,6 @@
 
-![Banner](https://gifdb.com/images/high/pixel-art-super-mario-computer-amwdq1xi8bgz0omx.gif)
+
+![Banner](https://gifdb.com/gif/pixel-art-super-mario-computer-amwdq1xi8bgz0omx.html?embed=true)
 <h2> Hey there! I'm Zhi Heng. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF of a student coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
@@ -11,7 +12,6 @@
 - 💼 &nbsp; Software Engineer.
 - 🌱 &nbsp; Enthusiast for the following areas: Data Analytics, Cybersecurity and Software Development.
 - ✍️ &nbsp; Part time volunteering and a Koreaboo
-- 
 
 <h3>🛠 Tech Stack</h3>
 
