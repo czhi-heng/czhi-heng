@@ -23,10 +23,11 @@
 <br>
 
 <!-- ![souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-
+<!-- ![Zhi Heng's GitHub stats](https://github-readme-stats.vercel.app/api?username=czhi-heng&show_icons=true&theme=github_dark) -->
 
 </br>
 
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=czhi-heng)](https://git.io/streak-stats) -->
 
 <h3> 🤝🏻 Connect with Me </h3>
 
